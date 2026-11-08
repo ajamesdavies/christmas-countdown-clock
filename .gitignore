@@ -1,0 +1,6 @@
+settings.toml
+sync.txt
+boot_out.txt
+*.bin
+*.uf2
+__pycache__/
